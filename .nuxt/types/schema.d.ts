@@ -24,7 +24,9 @@ declare module 'nuxt/schema' {
    },
   }
   interface PublicRuntimeConfig {
+   TELE_TOKEN: string,
 
+   TELEGRAM_ID_TARGET: string,
   }
 }
 declare module 'vue' {

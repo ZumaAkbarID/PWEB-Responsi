@@ -1,9 +1,9 @@
 {
-  "_hash": "y8XARFuF1f",
+  "_hash": "aXBaW9ULhp",
   "project": {
-    "rootDir": "/Users/mujiyanto/Documents/server/frontend/pw/my-nuxt-portfolio"
+    "rootDir": "D:/NuxtJs/PWEB-Responsi"
   },
   "versions": {
-    "nuxt": "3.12.2"
+    "nuxt": "3.12.3"
   }
 }

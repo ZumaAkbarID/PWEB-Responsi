@@ -1,1 +1,18 @@
-export { default } from "file:///Users/mujiyanto/Documents/server/frontend/pw/my-nuxt-portfolio/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
+export default {
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "D:/NuxtJs/PWEB-Responsi/node_modules/.pnpm/nuxt@3.12.3_@opentelemetry+api@1.9.0_@parcel+watcher@2.4.1_@types+node@20.14.9_ioredis@5.4.1__wxzggpbyumnrihb4aozgbvynhi/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "D:/NuxtJs/PWEB-Responsi/node_modules/.pnpm/nuxt@3.12.3_@opentelemetry+api@1.9.0_@parcel+watcher@2.4.1_@types+node@20.14.9_ioredis@5.4.1__wxzggpbyumnrihb4aozgbvynhi/node_modules/nuxt/dist/app/entry.js"
+  }
+}
