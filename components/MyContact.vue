@@ -16,7 +16,7 @@
               text-decoration: underline;
             "
           >
-            This feature is not yet functional
+            Send me message if you have any questions
           </p>
         </div>
         <div class="row form">

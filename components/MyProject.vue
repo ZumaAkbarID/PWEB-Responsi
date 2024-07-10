@@ -36,7 +36,7 @@
             <div class="col">
               <div class="card" data-aos="zoom-in" data-aos-delay="300">
                 <img
-                  src="https://media.licdn.com/dms/image/D562DAQHZVgkPpoysMQ/profile-treasury-image-shrink_1920_1920/0/1719371991482?e=1720648800&v=beta&t=t1b_XSEDYov8PqT4pgaCktnq3QpaDEoxuqdd8-4RbS0"
+                  src="https://i.ibb.co.com/4t6sPVj/68747470733a2f2f692e6962622e636f2f336854703151422f53637265656e73686f742d31382e706e67.png"
                   class="card-img-top"
                   width="1080"
                 />
@@ -173,22 +173,21 @@
             <div class="col">
               <div class="card" data-aos="zoom-in" data-aos-delay="900">
                 <img
-                  src="https://i.ibb.co.com/gFgGYNj/Screenshot-125.png"
+                  src="https://i.ibb.co.com/4N13xLS/image.png"
                   class="card-img-top"
                   width="1080"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">
-                    Premier Valorant Victory [Beta Premier]
-                  </h5>
+                  <h5 class="card-title">Forum Asisten Amikom Developer</h5>
                   <p class="card-text">
-                    LOL this is not my project, but i'll post this for fun. 😁
+                    Maintaining website, improve and make NestJS (image
+                    compressor & storage), AdonisJS (Mobile App Rest API).
                   </p>
                   <a
-                    href="https://www.youtube.com/watch?v=mkxer6pxQ6I"
+                    href="https://forumasisten.or.id/"
                     target="_blank"
                     class="text-button"
-                    >Don't Click!</a
+                    >View Production Website</a
                   >
                 </div>
               </div>
